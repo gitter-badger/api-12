@@ -3,7 +3,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/webneat)
 [![Build Status](https://travis-ci.org/wajez/api.svg?branch=master)](https://travis-ci.org/wajez/api)
 [![Coverage Status](https://coveralls.io/repos/github/wajez/api/badge.svg)](https://coveralls.io/github/wajez/api)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/wajez/api/blob/master/LICENSE)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/wajez/api/blob/master/LICENSE) [![Join the chat at https://gitter.im/wajez/api](https://badges.gitter.im/wajez/api.svg)](https://gitter.im/wajez/api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 REST API Development made easy.
 
